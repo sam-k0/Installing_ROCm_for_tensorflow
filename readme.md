@@ -1,4 +1,4 @@
-
+# OUTDATED!
 # Targeted Systems
 
 - Ubuntu / Debian Systems "like Ubuntu 22.04"
